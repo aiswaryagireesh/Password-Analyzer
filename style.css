@@ -6,14 +6,12 @@
 }
 
 body{
+body{
     background:#12001f;
-    min-height:100vh;
-    display:flex;
-    justify-content:center;
-    align-items:center;
     overflow:hidden;
-    touch-action: manipulation;
+    height:100vh;
 }
+
 /* Particle canvas */
 canvas{
     position:fixed;
